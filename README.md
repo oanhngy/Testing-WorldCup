@@ -30,7 +30,24 @@ Dự án thực hiện **kiểm thử phần mềm** với số lươ�
 4. Chạy các test với JUnit: mvn test
 
 ## 6. HÌNH MINH HỌA
-Kết quả JUnit Test
-<img width="543" height="142" alt="image" src="https://github.com/user-attachments/assets/0d24a9dd-d83a-4496-982f-efd95c659cc4" />
+Kết quả Unit Test
 
-Output từ mô phỏng trận đấu
+<img width="871" height="134" alt="Screenshot 2025-09-05 at 19 23 29" src="https://github.com/user-attachments/assets/8a0ab2bb-de66-4304-8de8-27cb6ab8d976" />
+
+
+
+Kết quả Integration Test
+
+<img width="708" height="222" alt="Screenshot 2025-09-05 at 19 23 46" src="https://github.com/user-attachments/assets/6d96eccb-87a2-4e2a-bad8-1db30a446e1a" />
+
+
+
+Output từ mô phỏng trận đấu (chưa đầy đủ)
+
+<img width="398" height="235" alt="Screenshot 2025-09-05 at 19 26 52" src="https://github.com/user-attachments/assets/2a64bdc1-aaeb-4c32-b112-d48687fe9d01" />
+
+<img width="398" height="235" alt="Screenshot 2025-09-05 at 19 26 52" src="https://github.com/user-attachments/assets/fcefb9a9-23c9-4cbe-a953-9ded0ba2ae5e" />
+
+<img width="333" height="413" alt="Screenshot 2025-09-05 at 19 27 43" src="https://github.com/user-attachments/assets/ac525891-a846-41a2-8bec-525dbb12127c" />
+
+<img width="383" height="123" alt="Screenshot 2025-09-05 at 19 27 50" src="https://github.com/user-attachments/assets/4849c085-1dc2-4104-8eb3-85ba95f531f7" />
